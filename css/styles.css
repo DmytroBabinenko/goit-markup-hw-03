@@ -17,6 +17,10 @@ img {
     gap: 40px;
 
 }
+.menucontact{
+    display: flex;
+    gap: 40px;
+}
 
 .studmenu {
     padding: 24px 0;
