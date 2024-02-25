@@ -12,6 +12,16 @@ img {
     border-bottom: 1px solid #e7e9fc;
 }
 
+.menu {
+    display: flex;
+    gap: 40px;
+
+}
+
+.studmenu {
+    padding: 24px 0;
+}
+
 .container {
     display: flex;
     width: 1158px;
@@ -48,6 +58,7 @@ span {
     text-transform: uppercase;
     color: #4d5ae5;
     margin-right: 76px;
+
 }
 
 .web-studio:hover {
@@ -126,10 +137,6 @@ span {
 
 
 
-
-
-
-
 .top {
     background-color:#2e2f42
     
@@ -146,7 +153,8 @@ span {
 .contact-info {
 
     font-style: normal;
-
+    display: flex;
+    gap: 40px;
 }
 
     
