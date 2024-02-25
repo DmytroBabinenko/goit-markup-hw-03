@@ -154,6 +154,7 @@ span {
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+    max-width: 496px;
 }
  
 .contact-info {
