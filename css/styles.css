@@ -199,12 +199,24 @@ a:focus {
     color: #404bbf;
 }
 
+.firstsect {
+    padding: 120px 0;
+}
 
+.hidenfirstsec{
+    
+}
 
+.teamlist {
+    display: flex;
+    gap: 24px; 
+}
 
+.teamlistpoint {
 
-
-
+    width: calc((100% - 72px) / 4);
+    
+}
 
 .featureshead {
 
