@@ -20,6 +20,8 @@ img {
 
 .studmenu {
     padding: 24px 0;
+    display: flex;
+    gap: 40px;
 }
 
 .container {
@@ -153,8 +155,7 @@ span {
 .contact-info {
 
     font-style: normal;
-    display: flex;
-    gap: 40px;
+    
 }
 
     
