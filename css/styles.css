@@ -4,13 +4,29 @@ body {
     background-color: #FFFFFF;
 }
 
-.container { 
-    max-width: 0;
-    padding-left: 0; 
-    padding-right: 0; 
-    margin-left:  0;
-    margin-right:  0;
-    }
+img {
+    display: block;
+}
+
+.headclass {
+    border-bottom: 1px solid #e7e9fc;
+}
+
+.container {
+    display: flex;
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+
+}
+
+.navhead {
+    display: flex;
+    align-items: center;
+
+}
+
+.
 
 
 #footer {
@@ -31,6 +47,7 @@ span {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    margin-right: 76px;
 }
 
 .web-studio:hover {
