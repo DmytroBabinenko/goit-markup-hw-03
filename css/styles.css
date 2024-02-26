@@ -227,7 +227,7 @@ a:focus {
 
 .teamlistpoint {
 
-    flex-basis: calc((100% - 72px) / 4);
+    width: calc((100% - 72px) / 4);
 
 }
 
@@ -259,6 +259,7 @@ a:focus {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
 
 
 }
@@ -287,6 +288,19 @@ a:focus {
 
 .devcast {
     background-color: #FFFFFF;
+}
+
+.castlist {
+
+    display: flex;
+    gap: 24px;
+
+}
+
+.castimg   {
+
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px; 
 }
 
 .logoportfolio {
