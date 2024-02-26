@@ -223,7 +223,7 @@ a:focus {
 .teamlist {
     display: flex;
     gap: 24px; 
-    width: calc((100% - 72px) / 4);
+    
 }
 
 .teamlistpoint {
