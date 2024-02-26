@@ -266,7 +266,7 @@ a:focus {
 
 .secondsect {
     background-color: #F4F4FD;
-
+    padding: 120px 0;
 }
 
 
@@ -288,6 +288,8 @@ a:focus {
 
 .devcast {
     background-color: #FFFFFF;
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
 }
 
 .castlist {
