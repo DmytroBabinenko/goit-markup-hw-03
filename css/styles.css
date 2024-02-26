@@ -391,3 +391,7 @@ a:focus {
 .webstudiofooter:focus {
     color: #404bbf;
 }
+
+.webb {
+    display: inline-block; 
+}
