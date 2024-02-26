@@ -392,3 +392,7 @@ a:focus {
     color: #404bbf;
 }
 
+.listportfolio .lppoint {
+    width: calc((100% - 48px) / 3);
+}
+
