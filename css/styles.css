@@ -351,6 +351,8 @@ a:focus {
 }
 .end{
     background-color:#2e2f42;
+    padding: 100px 0;
+    
     
 }
 
@@ -358,6 +360,7 @@ a:focus {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    max-width: 264px
 }
 
 .partlogosecond {
@@ -368,4 +371,23 @@ a:focus {
     padding-top: 120px;
     padding-bottom: 120px;
 
+}
+.webstudiofooter {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    margin-right: 76px;
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
+.webstudiofooter:hover {
+    color: #404bbf;
+}
+.webstudiofooter:focus {
+    color: #404bbf;
 }
