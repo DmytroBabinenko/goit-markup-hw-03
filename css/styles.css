@@ -332,7 +332,7 @@ a:focus {
     row-gap: 48px;
 }
 .lppoint {
-    width: calc((100% - 48px) / 3);
+    width: calc((100% - 48px) / 3) 
 
 }
 .containerlast {
