@@ -358,7 +358,7 @@ a:focus {
     color: #434455 ;
 
 }
-.end{
+.end {
     background-color:#2e2f42;
     padding: 100px 0;
     
@@ -373,7 +373,9 @@ a:focus {
 }
 
 .partlogosecond {
-    color: #f4f4fd;}
+    color: #f4f4fd;
+    display: inline-block;
+}
 
 
 .thirdsect {
