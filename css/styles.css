@@ -63,6 +63,11 @@ address {
 
 }
 
+.headclass .container {
+
+    display: flex;
+}
+
 .navhead {
     display: flex;
     align-items: center;
