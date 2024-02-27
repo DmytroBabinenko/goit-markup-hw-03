@@ -338,7 +338,7 @@ a:focus {
     column-gap: 24px;
     row-gap: 48px;
 }
-.lppoint {
+.listportfolio .lppoint {
     margin: 0;
     padding: 0;
     width: calc((100% - 48px) / 3);
