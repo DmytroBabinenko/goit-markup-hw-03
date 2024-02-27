@@ -339,6 +339,8 @@ a:focus {
     row-gap: 48px;
 }
 .lppoint {
+    margin: 0;
+    padding: 0;
     width: calc((100% - 48px) / 3);
 
 }
